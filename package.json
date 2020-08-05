@@ -1,6 +1,6 @@
 {
   "name": "react-native-eventsource",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A react-native component for EventSource: Server-Sent Events for iOS and Android",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JonnyBGod/react-native-eventsource"
+    "url": "https://github.com/MarketingAuto/react-native-eventsource"
   },
   "keywords": [
     "react-native",
